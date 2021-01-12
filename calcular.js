@@ -9,3 +9,4 @@ function cal_resultado(){
     var result=eval(document.getElementById('display').value);
     document.getElementById('display').value=result;
 }
+/*Funciones*/
